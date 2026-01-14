@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+freeflow-llm
+python-dotenv
