@@ -2,6 +2,8 @@
 
 Um chatbot inteligente especializado em desenvolvimento de software, APIs REST, Laravel, PHP e boas práticas de programação. Utilizando tecnologias de IA avançadas para fornecer respostas contextualizadas e úteis.
 
+**📚 Documentação Interativa:** [Swagger/OpenAPI](https://shop-chatbot-with-ai.onrender.com/docs)
+
 ## 📋 Sobre o Projeto
 
 Este projeto é uma API REST que fornece um endpoint de chat alimentado por inteligência artificial. O chatbot foi treinado para ser um assistente especialista em:
